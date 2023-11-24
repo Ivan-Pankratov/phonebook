@@ -1,5 +1,3 @@
-from random import *
-import json
 from phone_functions import *
 
 phonebook = {}
